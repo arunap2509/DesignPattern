@@ -1,0 +1,2 @@
+﻿[*.{cs}]
+dotnet_naming_style.underscored.required_prefix = _
