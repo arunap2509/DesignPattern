@@ -20,6 +20,13 @@
     <None Remove="Creational\Singelton\" />
     <None Remove="Creational\Prototype\" />
     <None Remove="Creational\Builder\" />
+    <None Remove="Structural\Adapter\" />
+    <None Remove="Structural\Facade\" />
+    <None Remove="Structural\Decorator\" />
+    <None Remove="Structural\Bridge\" />
+    <None Remove="Structural\Proxy\" />
+    <None Remove="Structural\FlyWeight\" />
+    <None Remove="Structural\Composite\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Creational\" />
@@ -30,5 +37,12 @@
     <Folder Include="Creational\Singelton\" />
     <Folder Include="Creational\Prototype\" />
     <Folder Include="Creational\Builder\" />
+    <Folder Include="Structural\Adapter\" />
+    <Folder Include="Structural\Facade\" />
+    <Folder Include="Structural\Decorator\" />
+    <Folder Include="Structural\Bridge\" />
+    <Folder Include="Structural\Proxy\" />
+    <Folder Include="Structural\FlyWeight\" />
+    <Folder Include="Structural\Composite\" />
   </ItemGroup>
 </Project>
