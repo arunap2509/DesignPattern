@@ -10,6 +10,12 @@ using DesignPattern.Structural.Bridge;
 using DesignPattern.Structural.Proxy;
 using DesignPattern.Structural.FlyWeight;
 using DesignPattern.Structural.Composite;
+using DesignPattern.Behavioural.Stratergy;
+using DesignPattern.Behavioural.Observer;
+using DesignPattern.Behavioural.Command;
+using DesignPattern.Behavioural.TemplateMethod;
+using DesignPattern.Behavioural.State;
+using DesignPattern.Behavioural.Iterator;
 
 
 // FactoryClient.Invoke();
@@ -23,4 +29,10 @@ using DesignPattern.Structural.Composite;
 // BridgeClient.Invoke();
 // ProxyClient.Invoke();
 // FlyweightClient.Invoke();
-CompositeClient.Invoke();
+// CompositeClient.Invoke();
+// StrategyClient.Invoke();
+// ObserverClient.Invoke();
+// CommandClient.Invoke();
+// TemplateMethodClient.Invoke();
+// StateClient.Invoke();
+IteratorClient.Invoke();

@@ -27,6 +27,12 @@
     <None Remove="Structural\Proxy\" />
     <None Remove="Structural\FlyWeight\" />
     <None Remove="Structural\Composite\" />
+    <None Remove="Behavioural\Stratergy\" />
+    <None Remove="Behavioural\Observer\" />
+    <None Remove="Behavioural\Command\" />
+    <None Remove="Behavioural\State\" />
+    <None Remove="Behavioural\TemplateMethod\" />
+    <None Remove="Behavioural\Iterator\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Creational\" />
@@ -44,5 +50,11 @@
     <Folder Include="Structural\Proxy\" />
     <Folder Include="Structural\FlyWeight\" />
     <Folder Include="Structural\Composite\" />
+    <Folder Include="Behavioural\Strategy\" />
+    <Folder Include="Behavioural\Observer\" />
+    <Folder Include="Behavioural\Command\" />
+    <Folder Include="Behavioural\State\" />
+    <Folder Include="Behavioural\TemplateMethod\" />
+    <Folder Include="Behavioural\Iterator\" />
   </ItemGroup>
 </Project>
