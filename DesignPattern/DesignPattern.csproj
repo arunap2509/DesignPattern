@@ -33,6 +33,10 @@
     <None Remove="Behavioural\State\" />
     <None Remove="Behavioural\TemplateMethod\" />
     <None Remove="Behavioural\Iterator\" />
+    <None Remove="Behavioural\ChainOfResponsibility\" />
+    <None Remove="Behavioural\Mediator\" />
+    <None Remove="Behavioural\Momento\" />
+    <None Remove="Behavioural\Visitor\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Creational\" />
@@ -56,5 +60,9 @@
     <Folder Include="Behavioural\State\" />
     <Folder Include="Behavioural\TemplateMethod\" />
     <Folder Include="Behavioural\Iterator\" />
+    <Folder Include="Behavioural\ChainOfResponsibility\" />
+    <Folder Include="Behavioural\Mediator\" />
+    <Folder Include="Behavioural\Momento\" />
+    <Folder Include="Behavioural\Visitor\" />
   </ItemGroup>
 </Project>

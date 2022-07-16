@@ -16,7 +16,10 @@ using DesignPattern.Behavioural.Command;
 using DesignPattern.Behavioural.TemplateMethod;
 using DesignPattern.Behavioural.State;
 using DesignPattern.Behavioural.Iterator;
-
+using DesignPattern.Behavioural.ChainOfResponsibility;
+using DesignPattern.Behavioural.Mediator;
+using DesignPattern.Behavioural.Momento;
+using DesignPattern.Behavioural.Visitor;
 
 // FactoryClient.Invoke();
 // AbstractFactoryClient.Invoke();
@@ -35,4 +38,8 @@ using DesignPattern.Behavioural.Iterator;
 // CommandClient.Invoke();
 // TemplateMethodClient.Invoke();
 // StateClient.Invoke();
-IteratorClient.Invoke();
+// IteratorClient.Invoke();
+// ChainOfResponsibilityClient.Invoke();
+// MediatorClient.Invoke();
+// MomentoClient.Invoke();
+VisitorClient.Invoke();
